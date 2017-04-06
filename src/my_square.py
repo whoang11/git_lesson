@@ -1,7 +1,7 @@
 
-def my square(x):
+def my square(y):
   """takes a value and return the square value
   """
-  return(x **2)
+  return(y **2)
   
-print(my square(4)
+print(my square(42)
